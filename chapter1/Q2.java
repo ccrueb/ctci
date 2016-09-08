@@ -1,6 +1,6 @@
 package chapter1;
 
-public class Two {
+public class Q2 {
 
 	public static void main(String[] args) {
 		String a = "dog";
