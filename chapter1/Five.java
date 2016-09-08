@@ -1,5 +1,4 @@
 package chapter1;
-
 public class Five {
 
 	public static void main(String[] args) {
